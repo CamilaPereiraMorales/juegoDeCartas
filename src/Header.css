@@ -8,11 +8,12 @@ header {
 }
 
 .titulo {
-    font-size: 25px;
+    font-size: 35px;
     font-family: fantasy;
+    font-weight: 800;
     padding: 10px;
     color: white;
-    margin-left: 10px;
+    align-content: center;
 }
 
 .botonReiniciar {

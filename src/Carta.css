@@ -1,3 +1,7 @@
+body {
+    background-image: url(../src/img/fondo.jpeg)
+}
+
 .carta {
     width: 150px;
     height: 200px;
@@ -7,9 +11,10 @@
 
 .portada {
     width: 150px;
-    height: 200px;
+    height: 210px;
     margin-bottom: 10px;
-    background-color: burlywood;
+    background-image: url(../src/img/baraja.jpg);
+    background-size: cover;
 }
 
 .contenido {
