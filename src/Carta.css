@@ -19,11 +19,12 @@ body {
 
 .contenido {
     width: 150px;
-    height: 200px;
+    height: 210px;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: lightslategrey
+    background-color: antiquewhite;
+    background-size: cover;
 }
 
 .ReactFlipCard {
