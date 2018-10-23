@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/juegoDeCartas/precache-manifest.1f3b0dfae1bfb8e6ed95972a07c39369.js"
+  "/juegoDeCartas/public/index.html/precache-manifest.157ce6fec861a350c2b14b97a787c6a8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/juegoDeCartas/index.html", {
+workbox.routing.registerNavigationRoute("/juegoDeCartas/public/index.html/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
