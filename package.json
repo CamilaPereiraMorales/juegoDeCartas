@@ -2,7 +2,7 @@
     "name": "juegodecartas",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://camilapereiramorales.github.io/juegoDeCartas",
+    "homepage": "https://camilapereiramorales.github.io/juegoDeCartas/Cartas",
     "dependencies": {
         "font-awesome": "^4.7.0",
         "lodash.shuffle": "^4.2.0",
