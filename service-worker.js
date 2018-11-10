@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/juegoDeCartas/precache-manifest.ab1363ca0c93c807babfc363adb19f21.js"
+  "/juegoDeCartas/precache-manifest.60df8ecef3c66df1bd3cc2e854834662.js"
 );
 
 workbox.clientsClaim();
