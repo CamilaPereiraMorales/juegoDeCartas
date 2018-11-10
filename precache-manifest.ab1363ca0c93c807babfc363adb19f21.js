@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/juegoDeCartas/static/media/fondo.1a66b76c.jpeg"
   },
   {
-    "revision": "e561519c7e5b33dfe94b",
-    "url": "/juegoDeCartas/static/css/main.539ab206.chunk.css"
+    "revision": "e2c0457ac181639b2698",
+    "url": "/juegoDeCartas/static/css/main.5190414c.chunk.css"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/juegoDeCartas/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/juegoDeCartas/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "8189cfafead6a5828377",
-    "url": "/juegoDeCartas/static/js/1.8189cfaf.chunk.js"
+    "revision": "33079dba16c3fbed8a1f",
+    "url": "/juegoDeCartas/static/js/1.33079dba.chunk.js"
   },
   {
     "revision": "c87dd1e60f3285278895",
@@ -24,12 +24,16 @@ self.__precacheManifest = [
     "url": "/juegoDeCartas/static/media/baraja.1154cee8.jpg"
   },
   {
-    "revision": "e561519c7e5b33dfe94b",
-    "url": "/juegoDeCartas/static/js/main.e561519c.chunk.js"
+    "revision": "e2c0457ac181639b2698",
+    "url": "/juegoDeCartas/static/js/main.e2c0457a.chunk.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/juegoDeCartas/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/juegoDeCartas/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
@@ -40,15 +44,11 @@ self.__precacheManifest = [
     "url": "/juegoDeCartas/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/juegoDeCartas/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "33079dba16c3fbed8a1f",
+    "url": "/juegoDeCartas/static/css/1.9a71a382.chunk.css"
   },
   {
-    "revision": "8189cfafead6a5828377",
-    "url": "/juegoDeCartas/static/css/1.c417acf7.chunk.css"
-  },
-  {
-    "revision": "7041783381b82e1644c8ff967482e640",
+    "revision": "d2d066a5af598cef7aa1338c43c1625a",
     "url": "/juegoDeCartas/index.html"
   }
 ];
