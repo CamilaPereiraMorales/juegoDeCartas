@@ -1,0 +1,31 @@
+header {
+    height: 50px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.titulo {
+    font-size: 35px;
+    font-family: fantasy;
+    font-weight: 800;
+    padding: 10px;
+    color: white;
+    align-content: center;
+}
+
+.botonReiniciar {
+    position: absolute;
+    left: 22px;
+    top: 68px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    background-color: grey;
+    border: none;
+    font-family: fantasy;
+    font-weight: 800;
+    color: white;
+}
